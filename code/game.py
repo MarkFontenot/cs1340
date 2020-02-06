@@ -1,6 +1,5 @@
 import random
 
-
 round = 0
 
 while round < 10:
